@@ -1,0 +1,15 @@
+.tribute__container-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      flex-direction: column;
+  }
+.tribute__img{
+    max-width: 100%;
+    height: auto;
+  }
+.tribute__title {
+    text-align: center;
+  font-weight: bold;
+  font-family: monospace;
+}
